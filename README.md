@@ -1,4 +1,4 @@
-This project is a highly responsive web application built using React.js and JavaScript. The User Interface is created using Chakra UI, a popular React component library that provides a set of accessible and customizable User Interface components. The dashboard charts are implemented using Recharts, a third-party charting library that offers a wide range of charts.
+This dashboard_project is a highly responsive web application built using React.js and JavaScript. The User Interface is created using Chakra UI, a popular React component library that provides a set of accessible and customizable User Interface components. The dashboard charts are implemented using Recharts, a third-party charting library that offers a wide range of charts.
 
 
 To get started with this project, you will need to clone the repository to your local machine and run the following command in the project directory to install the necessary dependencies:
